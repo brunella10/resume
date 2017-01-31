@@ -7,7 +7,7 @@ Personal information
 
 Country 		 Venezuela.
 
-My address 	 810 Dexter Ave N, Seattle, Wa.
+Address 	 810 Dexter Ave N, Seattle, Wa.
 
 Contact   	 gaby1010@gmail.com / (206) 485-0345
 
@@ -33,8 +33,6 @@ Education
 
 Experience
 ----------
-
-Shopping list:
 
 
 * Administrative Assistant. 2.015. Schondube Abogados Cancun-Mexico.
